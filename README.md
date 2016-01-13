@@ -1,6 +1,9 @@
 # okta-onprem-test-collection
 Postman collection to test against SCIM connector
 
+You can access this collection and import it from pastman using this URL:
+https://rawgit.com/pmcdowell-okta/okta-opp-postman-collection/master/Okta-On-Premise-Agent-SCIM
+
 These collections try to simulate simple SCIM Rest request that are send from the Okta on-premise provisioning agent.
 
 Testing with these collections will help diagnose any problems the SCIM service might have with Okta.
